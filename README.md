@@ -16,3 +16,7 @@
 ### 4. 실습 자료 다운로드 ###
 
 * **[day1-실습].zip, [day2-실습].zip** 파일을 다운로드 받으세요.
+
+### 5. openai key ###
+
+* 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
